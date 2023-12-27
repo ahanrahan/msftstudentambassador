@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/5gTech.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "image of antenna bands superimposed on top of city";
 
 /**
  * Project list
@@ -31,21 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Comprehensive Project Charter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "As part of my undergraduate project management course, I created a comprehensive 7-page project charter based on the building of new office space for company merger. I analyzed scope, cost, and time constraints of the project to meet the needs of the organization, and coordinated work breakdown structure that detailed installation/purchase of laptops, VoIP telephony system, etc.",
+    url: "https://1drv.ms/b/s!AkigDwzFbhFvgnL1I1RQVETdxphV?e=Xb7bD3",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cloud Architecture for Company Migration",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "For my graduate cloud management course, I proposed a new SaaS and IaaS cloud architecture for a company looking to move to cloud solutions.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Exploring Digital Transformation in Microsoft Showcase Schools",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "My undergraduate Honors Thesis explores digital transformation in 5 Microsoft Showcase Schools in the UK.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
