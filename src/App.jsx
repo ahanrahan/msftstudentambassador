@@ -27,11 +27,11 @@ const siteProps = {
   name: "Andrew Hanrahan",
   title: "Masters Student at Syracuse University",
   email: "alhanrah@syr.edu",
-  gitHub: "https://github.com/ahanrahan",
+  gitHub: "ahanrahan",
   instagram: "",
-  linkedIn: "https://linkedin.com/in/andrew-l-hanrahan",
+  linkedIn: "andrew-l-hanrahan",
   medium: "",
-  twitter: "https://twitter.com/AndrewLHanrahan",
+  twitter: "AndrewLHanrahan",
   youTube: "",
 };
 
