@@ -24,7 +24,7 @@ const imageAltText = "image of a cloud superimposed on a computer chip";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a Information Systems master's student at Syracuse University. My passions lie in the intersection of education and technology, project management, and cloud computing.";
+  "I'm an Information Systems master's student at Syracuse University. My passions lie in the intersection of education and technology, project management, and cloud computing.";
 
 /**
  * List of some of skills or technologies you work on, are learning,

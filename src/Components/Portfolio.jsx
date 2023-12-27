@@ -34,25 +34,19 @@ const projectList = [
     title: "Comprehensive Project Charter",
     description:
       "As part of my undergraduate project management course, I created a comprehensive 7-page project charter based on the building of new office space for company merger. I analyzed scope, cost, and time constraints of the project to meet the needs of the organization, and coordinated work breakdown structure that detailed installation/purchase of laptops, VoIP telephony system, etc.",
-    url: "https://1drv.ms/b/s!AkigDwzFbhFvgnL1I1RQVETdxphV?e=Xb7bD3",
+    url: "https://1drv.ms/b/s!AkigDwzFbhFvgnNAdDc2kV_tIinA?e=IDntOW",
   },
   {
     title: "Cloud Architecture for Company Migration",
     description:
       "For my graduate cloud management course, I proposed a new SaaS and IaaS cloud architecture for a company looking to move to cloud solutions.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+    url: "https://1drv.ms/b/s!AkigDwzFbhFvgnEV03XF9Hf-jOUm?e=1qo55H",
   },
   {
     title: "Exploring Digital Transformation in Microsoft Showcase Schools",
     description:
       "My undergraduate Honors Thesis explores digital transformation in 5 Microsoft Showcase Schools in the UK.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+    url: "https://1drv.ms/b/s!AkigDwzFbhFvgnL1I1RQVETdxphV?e=b7D5J4",
   },
 ];
 
